@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/H4jYZGk/To-Kill-A-Mockingbird.png",
+      "review": "A timeless classic that explores the complexities of racial injustice in a small Southern town.",
+      "totalPages": 281,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Drama", "Social Issues"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "id": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/QjWZ1Fd/1984.jpg",
+      "review": "A dystopian masterpiece that serves as a stark warning about the dangers of totalitarianism.",
+      "totalPages": 328,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "id": 3,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/L1M4wR5/The-Great-Gatsby.jpg",
+      "review": "A mesmerizing portrayal of the American Dream and its disintegration in the Jazz Age.",
+      "totalPages": 180,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Romance", "Tragedy"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "id": 4,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/kmpQPQV/pride-and-prejudice.jpg",
+      "review": "A witty and charming novel that explores themes of love, class, and societal expectations.",
+      "totalPages": 279,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Romance", "Comedy of Manners"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "id": 5,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/25DRLQX/The-Catcher-in-the-Rye.jpg",
+      "review": "A coming-of-age novel that captures the disillusionment and alienation of teenage angst.",
+      "totalPages": 224,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Coming-of-Age", "Existentialism"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "id": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/LDKR4pc/The-Hobbit.jpg",
+      "review": "An enchanting adventure tale set in Middle-earth, filled with magic, dragons, and unforgettable characters.",
+      "totalPages": 310,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Epic"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937
+    }
+  ]
+  
